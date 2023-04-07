@@ -1,4 +1,4 @@
-# Tech Blog
+# Pedal-Stool
 
 ## Description
 
