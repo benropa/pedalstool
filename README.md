@@ -109,4 +109,8 @@ A __Comments__ belongsTo a __Blog__<br>
 		* INTEGER
 		* Not Null
 		* Foreign Key -- References blog_post.id
+		
+## Deployment
+https://pedal-stool.herokuapp.com/
+
 
